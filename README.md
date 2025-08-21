@@ -4,7 +4,9 @@ This project explores global carbon tax rates, coverage, and their relationship 
 **Data Sources:**
 
 World Bank Carbon Pricing Dashboard (2023)
+
 Tax Foundation – Carbon Taxes in Europe (2023)
+
 Destatis – Carbon dioxide emissions per capita (2023)
 
 **The dataset includes:**
