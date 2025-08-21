@@ -1,7 +1,3 @@
-Got it — here’s the same **README.md** without emojis and with a clean professional structure:
-
----
-
 # Carbon Tax Analysis
 
 This project explores global carbon tax rates, their coverage, and their relationship with CO₂ emissions per capita (t per capita).
