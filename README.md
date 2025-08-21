@@ -3,6 +3,15 @@
 This project explores global carbon tax rates, their coverage, and their relationship with CO₂ emissions per capita (t per capita).
 The analysis is conducted in Python using Jupyter Notebook.
 
+## Languages
+
+Python
+
+Tools:
+
+Jupyter Notebook
+
+Pandas, NumPy, Matplotlib, Seaborn, SciPy
 ---
 
 ## Data Sources
