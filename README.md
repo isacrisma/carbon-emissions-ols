@@ -1,39 +1,51 @@
+Got it — here’s the same **README.md** without emojis and with a clean professional structure:
+
+---
+
 # Carbon Tax Analysis
 
-This project explores global carbon tax rates, coverage, and their relationship with CO₂ emissions per capita. The analysis is performed in Python using Jupyter Notebook.
+This project explores global carbon tax rates, their coverage, and their relationship with CO₂ emissions per capita (t per capita).
+The analysis is conducted in Python using Jupyter Notebook.
 
-**Data Sources:**
+---
 
-World Bank Carbon Pricing Dashboard (2023)
+## Data Sources
 
-Tax Foundation – Carbon Taxes in Europe (2023)
+* World Bank – Carbon Pricing Dashboard (2023)
+* Tax Foundation – Carbon Taxes in Europe (2023)
+* Destatis – Carbon dioxide emissions per capita (2023)
 
-Destatis – Carbon dioxide emissions per capita (2023)
+---
 
-**The dataset includes:**
+## Dataset Contents
 
-Country name
-Carbon tax rate ($/ton CO₂e)
+The dataset includes the following fields:
 
-CO₂ emissions per capita (t per capita)
+* Country name
+* Carbon tax rate (\$/ton CO₂e)
+* CO₂ emissions per capita (t per capita)
+* Year of implementation
 
-Year of implementation
+---
 
-**Example Visualizations:**
+## Example Visualizations
 
-Barplots: Carbon tax per country
+* Barplots: Carbon tax per country
+* Histograms: CO₂ emissions per capita grouped by tax level
+* Residual plots: ANOVA model diagnostics
 
-Histograms: CO₂ emissions per capita grouped by tax level
+---
 
-Residual plots: ANOVA model diagnostics
+## How to Run
 
-**How to Run**:
+1. Clone or download this repository.
 
-Clone or download this repository.
+2. Open the Jupyter Notebook:
 
-Open the Jupyter notebook:
+   ```bash
+   jupyter notebook carbon_taxes.ipynb
+   ```
 
-jupyter notebook carbon_taxes.ipynb
+3. Run all cells in order to reproduce the analysis.
 
-
-Run all cells in order to reproduce the analysis.
+---
